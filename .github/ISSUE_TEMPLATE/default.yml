@@ -11,9 +11,10 @@ body:
       label: Key tasks
       description: List of tasks to be completed
       placeholder: |
-        - Task 1
-        - Task 2
-        - Task 3
+        1. Task 1
+        2. Task 2
+        3. Task 3
+        ...
       # value: ''
       # render: bash
     validations:
