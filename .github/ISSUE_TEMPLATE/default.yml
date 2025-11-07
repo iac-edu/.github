@@ -2,8 +2,8 @@ name: Default
 description: Default issue template
 assignees: []
 labels: []
-title: ''
-type: ''
+# title: ''
+# type: ''
 projects: []
 body:
   - type: textarea
@@ -14,5 +14,7 @@ body:
         - Task 1
         - Task 2
         - Task 3
-      validations:
-        required: true
+      # value: ''
+      # render: bash
+    validations:
+      required: true
