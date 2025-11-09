@@ -1,0 +1,13 @@
+labels: []
+# title: ''
+body:
+  - type: textarea
+    id: body
+    attributes:
+      label: Add a body
+      description: Add the idea body
+      placeholder: Ask a question, start a conversation, or make an announcement
+      # value: ''
+      # render: bash
+    validations:
+      required: true
