@@ -7,8 +7,9 @@ labels: []
 projects: []
 body:
   - type: textarea
+    id: tasks
     attributes:
-      label: Key tasks
+      label: Tasks
       description: List of tasks to be completed
       placeholder: |
         1. Task 1
