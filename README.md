@@ -1,3 +1,3 @@
 # .github
 
-Default community health files for the IAC organization.
+Default community health files for @iac-edu.
