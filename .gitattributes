@@ -1,0 +1,6 @@
+* text=auto
+
+*.md text diff=markdown
+*.yml text
+.gitattributes text
+.gitignore text
